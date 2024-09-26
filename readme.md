@@ -6,3 +6,5 @@ coding dojo
 * Patrice
 
 Mob.sh 
+
+Un petit commentaire juste quelque chose
